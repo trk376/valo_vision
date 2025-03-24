@@ -1,5 +1,6 @@
 # valo_vision
-
+Ce projet est un projet de computer vision implémenté avec YOLOv8 permettant de detecter les agents de valorant sur la minimap pouvant servir par la suite à creer étudier les deplacements de joueurs/équipes.
+Le projet est à ses débuts et les models ont encore besoin d'entrainements. les agents qu'il peut actuellement detecter sont  : omen , jett, sova, neon, cypher, breach.
 ## Installation
 ### Cloner le projet 
 ```
